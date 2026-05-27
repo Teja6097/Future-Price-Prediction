@@ -1,0 +1,6 @@
+{
+  "name": "AI Electronics Price Predictor",
+  "description": "Predict future prices of smartphones, laptops, and electronics using machine learning and AI to generate 'Buy Now' vs 'Wait' recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
